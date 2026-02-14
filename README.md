@@ -14,7 +14,7 @@ The problem is formulated as a binary classification task, where:
 
 ---
 
-## b. Dataset Description  [1 Mark]
+## b. Dataset Description  
 
 - Dataset Name: Credit Card Default Dataset  
 - Source: Kaggle / UCI Machine Learning Repository  
@@ -31,7 +31,7 @@ The dataset is imbalanced, with a larger number of non-defaulters compared to de
 
 ---
 
-## c. Models Used and Evaluation Metrics  [6 Marks]
+## c. Models Used and Evaluation Metrics 
 
 The following machine learning models were implemented and evaluated:
 
@@ -65,7 +65,7 @@ The following machine learning models were implemented and evaluated:
 
 ---
 
-## d. Observations on Model Performance  [3 Marks]
+## d. Observations on Model Performance  
 
 | ML Model Name | Observation about Model Performance |
 |--------------|-------------------------------------|
